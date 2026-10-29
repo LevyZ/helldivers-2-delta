@@ -188,6 +188,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Helldivers 2 · Updated 2026-10-28 · Shared under the MIT License*
+*Helldivers 2 · Updated 2026-10-29 · Shared under the MIT License*
 
-<!-- rev 2026-10-28 -->
+<!-- rev 2026-10-29 -->
